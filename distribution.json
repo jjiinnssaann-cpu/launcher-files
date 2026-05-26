@@ -13,7 +13,7 @@
       "description": "alphav1 Running Minecraft 26.1.2 (Fabric v0.19.2)",
       "icon": "http://localhost:8080/servers/alphav1-26.1.2/Icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "remiworld.kro.kr",
       "minecraftVersion": "26.1.2",
       "discord": {
         "shortId": "Jinsan1.0",
